@@ -1,0 +1,26 @@
+{
+	"type": "FeatureCollection",
+	"features":	[
+		{
+			"type": "Feature",
+			"geometry":	{
+				"type": "Point",
+				"coordinates":	[
+					-77.002288,
+					38.968929
+				]
+			},
+			"properties": {
+				"marker-symbol": "music",
+				"Name": "DC Bluegrass Union VFW Bluegrass Jam",
+				"Days": "1st & 3rd Mondays",
+				"Time": "7:00-10:00 PM",
+				"Venue": "Veterans of Foreign Wars Post 350",
+				"Address": "6420 Orchard Ave, Takoma Park, MD",
+				"Directions": "Just a few blocks from the intersection of New Hampshire Ave and Eastern Ave.",
+				"Contact": "VFW Post 350: 301-270-8008 or email Barb Diederich at barb@barbdiederich.com"
+			}
+		}
+	]
+}
+		
