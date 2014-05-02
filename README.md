@@ -1,7 +1,8 @@
 DCBU-jams
 =========
 
-* A geojson collection of DC area bluegrass jams as listed on the site of the [D.C. Bluegrass Union](http://dcbu.org)
-* Original source can be found [here](http://dcbu.org/jams.htm)
-* As stated on the site, information is subject to change so "verify the Locations, Dates, and Times before traveling to any of these events!"
-* This collection will be updated from the original source every Sunday
+* A geojson collection of DC area bluegrass jams as taken from the website of the [D.C. Bluegrass Union](http://dcbu.org)
+* Original source of these records can be found [here](http://dcbu.org/jams.htm)
+* This collection will be regularly updated from the original source, but as stated on the site "Verify the Locations, Dates, and Times before traveling to any of these events!"
+* Venue locations were geocoded using [geocoder.us](http://geocoder.us)
+
