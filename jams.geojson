@@ -14,13 +14,93 @@
 				"marker-symbol": "music",
 				"Name": "DC Bluegrass Union VFW Bluegrass Jam",
 				"Days": "1st & 3rd Mondays",
-				"Time": "7:00-10:00 PM",
+				"Time": "7:00-10:00PM",
 				"Venue": "Veterans of Foreign Wars Post 350",
-				"Address": "6420 Orchard Ave, Takoma Park, MD",
+				"Address": "6420 Orchard Avenue, Takoma Park, MD",
 				"Directions": "Just a few blocks from the intersection of New Hampshire Ave and Eastern Ave.",
 				"Contact": "VFW Post 350: 301-270-8008 or email Barb Diederich at barb@barbdiederich.com"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry":	{
+				"type": "Point",
+				"coordinates":	[
+					-78.165922,
+					39.182756
+				]
+			},
+			"properties": {
+				"marker-symbol": "music",
+				"Name": "BrownBag Bluegrass Gospel (B3G)",
+				"Days": "Mondays",
+				"Time": "12:00PM",
+				"Venue": "First Presbyterian Church of Winchester (in the Fellowship Hall)",
+				"Address": "116 South Loudoun Street, Winchester, VA",
+				"Directions": "Just a few blocks from the intersection of New Hampshire Ave and Eastern Ave.",
+				"Note": "Bring your own brown bag lunch, your instrument, and your friends to socialize and listen to some local bluegrass gospel music. No sermons, no donations, just good fellowship and great pickin'",
+				"Contact": "Assoc. Pastor, Dr. Dan McCoig at http://www.firstchurch-winchester.org"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry":	{
+				"type": "Point",
+				"coordinates":	[
+					-77.562953,
+					39.111547
+				]
+			},
+			"properties": {
+				"marker-symbol": "music",
+				"Name": "Loudon Bluegrass Association Jam",
+				"Days": "Tuesdays",
+				"Time": "7:00PM",
+				"Venue": "Morningside House",
+				"Address": "316 Harrison Street SE, Leesburg, VA",
+				"Directions": "Just a few blocks from the intersection of New Hampshire Ave and Eastern Ave.",
+				"Contact": "703-777-2777"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry":	{
+				"type": "Point",
+				"coordinates":	[
+					-75.775906,
+					39.947037
+				]
+			},
+			"properties": {
+				"marker-symbol": "music",
+				"Name": "Millcreek Bluegrass Band Jam",
+				"Days": "Tuesdays",
+				"Time": "8:15-11:00PM",
+				"Venue": "Dugal's Inn",
+				"Address": "2094 Strasburg Road, Coatesville, PA",
+				"Note": "8 miles west of West Chester, PA",
+				"Contact": "703-777-2777"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry":	{
+				"type": "Point",
+				"coordinates":	[
+					-75.196951,
+					40.067796
+				]
+			},
+			"properties": {
+				"marker-symbol": "music",
+				"Name": "BIG Bluegrass Jam",
+				"Days": "3rd Tuesday of every month",
+				"Time": "8:30PM",
+				"Venue": "The Mermaid Inn",
+				"Address": "7673 Winston Road, PA",
+				"Note": "Mermaid Lane & Germantown Avenue",
+				"Contact": "215-247-9797"
 			}
 		}
 	]
 }
-		
