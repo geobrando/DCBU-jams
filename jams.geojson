@@ -18,7 +18,7 @@
 				"Venue": "Veterans of Foreign Wars Post 350",
 				"Address": "6420 Orchard Avenue, Takoma Park, MD",
 				"Directions": "Just a few blocks from the intersection of New Hampshire Ave and Eastern Ave.",
-				"Contact": "VFW Post 350: 301-270-8008 or email Barb Diederich at barb@barbdiederich.com"
+				"Information": "VFW Post 350: 301-270-8008 or email Barb Diederich at barb@barbdiederich.com"
 			}
 		},
 		{
@@ -39,7 +39,7 @@
 				"Address": "116 South Loudoun Street, Winchester, VA",
 				"Directions": "Just a few blocks from the intersection of New Hampshire Ave and Eastern Ave.",
 				"Note": "Bring your own brown bag lunch, your instrument, and your friends to socialize and listen to some local bluegrass gospel music. No sermons, no donations, just good fellowship and great pickin'",
-				"Contact": "Assoc. Pastor, Dr. Dan McCoig at http://www.firstchurch-winchester.org"
+				"Information": "Assoc. Pastor, Dr. Dan McCoig at http://www.firstchurch-winchester.org"
 			}
 		},
 		{
@@ -59,7 +59,7 @@
 				"Venue": "Morningside House",
 				"Address": "316 Harrison Street SE, Leesburg, VA",
 				"Directions": "Just a few blocks from the intersection of New Hampshire Ave and Eastern Ave.",
-				"Contact": "703-777-2777"
+				"Information": "703-777-2777"
 			}
 		},
 		{
@@ -79,7 +79,7 @@
 				"Venue": "Dugal's Inn",
 				"Address": "2094 Strasburg Road, Coatesville, PA",
 				"Note": "8 miles west of West Chester, PA",
-				"Contact": "703-777-2777"
+				"Information": "703-777-2777"
 			}
 		},
 		{
@@ -99,7 +99,106 @@
 				"Venue": "The Mermaid Inn",
 				"Address": "7673 Winston Road, PA",
 				"Note": "Mermaid Lane & Germantown Avenue",
-				"Contact": "215-247-9797"
+				"Information": "215-247-9797"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry":	{
+				"type": "Point",
+				"coordinates":	[
+					-77.882604,
+					40.777891
+				]
+			},
+			"properties": {
+				"marker-symbol": "music",
+				"Name": "Tuesday Night Bluegrass, Old Time and Gospel Jam",
+				"Days": "Tuesdays",
+				"Time": "7:00-10:00PM",
+				"Venue": "Pine Hall Lutheran Church",
+				"Address": "1760 West College Avenue, State College, PA",
+				"Note": "Open to the public. Everyone is welcome to join in--or just to listen. Pennsylvania's most well attended weekly bluegrass jam. A great place for beginners to get started. Music stands OK. Admission free (Donations encouraged to defray costs of utilities and coffee. Participants are encouraged to bring potluck goodies (cakes, pies, cookies, cupcakes, etc.) for the 10-15 minute break at 8:30 p.m.",
+				"Information": "814-883-0287 or askrug@comcast.net"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry":	{
+				"type": "Point",
+				"coordinates":	[
+					-78.874130,
+					38.441439 
+				]
+			},
+			"properties": {
+				"marker-symbol": "music",
+				"Name": "Bluegrass Jam",
+				"Days": "Tuesdays",
+				"Time": "6:00-9:00PM",
+				"Venue": "James Madison University",
+				"Address": "800 S Main St, Harrisonburg, VA 22801",
+				"Note": "Held at Memorial Hall (Old Harrisonburg High School). Free to the public, all level of players welcome...",
+				"Information": "540-209-3540"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry":	{
+				"type": "Point",
+				"coordinates":	[
+					-77.962007,
+					39.458348 
+				]
+			},
+			"properties": {
+				"marker-symbol": "music",
+				"Name": "Bluegrass Music Alliance Jam",
+				"Days": "Tuesdays",
+				"Time": "6:30-9:30PM",
+				"Venue": "Train Station on East Martin Street",
+				"Address": "229 Martin St E, Martinsburg, WV 25401",
+				"Note": "Musicians of all levels encouraged to come; bluegrass music fans are welcome to listen",
+				"Information": "info@bluegrassmusicalliance.org"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry":	{
+				"type": "Point",
+				"coordinates":	[
+					-76.616838,
+					39.311036 
+				]
+			},
+			"properties": {
+				"marker-symbol": "music",
+				"Name": "Baltimore Old Time Jam",
+				"Days": "Every other Tuesday",
+				"Time": "7:30-10:30PM",
+				"Venue": "Liam Flynn's Ale House",
+				"Address": "22 West North Avenue, Baltimore, MD",
+				"Note": "Slow jam from 7:00-8:00 and fast jam from 8:00-10:30",
+				"Information": "http://www.bradkolodner.com/blog.html"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry":	{
+				"type": "Point",
+				"coordinates":	[
+					-78.6111052,
+					38.4041787 
+				]
+			},
+			"properties": {
+				"marker-symbol": "music",
+				"Name": "Elkton Bluegrass Jam",
+				"Days": "Tuesdays",
+				"Time": "6:00-8:00PM",
+				"Venue": "Elkton Community Center",
+				"Address": "20592 Blue and Gold Drive, Elkton, VA",
+				"Information": "540-209-3540 or the Elkton Community Center 540-298-8730"
 			}
 		}
 	]
