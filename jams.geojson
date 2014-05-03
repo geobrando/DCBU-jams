@@ -200,6 +200,66 @@
 				"Address": "20592 Blue and Gold Drive, Elkton, VA",
 				"Information": "540-209-3540 or the Elkton Community Center 540-298-8730"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry":	{
+				"type": "Point",
+				"coordinates":	[
+					-76.836658,
+					39.563650 
+				]
+			},
+			"properties": {
+				"marker-symbol": "music",
+				"Name": "Arcadia Bluegrass Jam",
+				"Days": "Wednesdays",
+				"Time": "7:00-10:00PM",
+				"Venue": "Arcadia Fire Co. Hall",
+				"Address": "5415 Arcadia Ave Upperco, MD 21155",
+				"Note": "Inside the Activites Bldg at 16020 Carnival Ave off Arcadia Ave",
+				"Information": "arcadiabluegrass@comcast.net"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry":	{
+				"type": "Point",
+				"coordinates":	[
+					-77.653249,
+					39.140625 
+				]
+			},
+			"properties": {
+				"marker-symbol": "music",
+				"Name": "Open Acoustical Mic, hosted by MT Pockets N Loose Change Pickers",
+				"Days": "Last Wednesday of every month",
+				"Time": "8:00-11:00PM",
+				"Venue": "The Beautiful South",
+				"Address": "17416 Hamilton Station Road, Hamilton, VA 20158",
+				"Note": "At the intersection of OLD (biz) route 7 & route 704",
+				"Information": "703-927-7271"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry":	{
+				"type": "Point",
+				"coordinates":	[
+					-77.047929,
+					39.090500 
+				]
+			},
+			"properties": {
+				"marker-symbol": "music",
+				"Name": "Garry Elders open mic",
+				"Days": "Third Wednesday of every month",
+				"Time": "7:30-11:00PM",
+				"Venue": "El Nopalito Restaurant",
+				"Address": "2259 Bel Pre Road, Silver Spring, MD 20906",
+				"Note": "Call for early signup",
+				"Information": "301-219-7399"
+			}
 		}
 	]
 }
