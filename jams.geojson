@@ -260,6 +260,99 @@
 				"Note": "Call for early signup",
 				"Information": "301-219-7399"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry":	{
+				"type": "Point",
+				"coordinates":	[
+					-77.028610,
+					40.077750 
+				]
+			},
+			"properties": {
+				"marker-symbol": "music",
+				"Name": "Bluerass Jam",
+				"Days": "Thursdays",
+				"Time": "6:00PM",
+				"Venue": "Franklintown Community Fire Company",
+				"Address": "107 Baltimore Road, Dillsburg, PA 17019",
+				"Note": "Kitchen is Open",
+				"Information": "717-432-9010 or Dick Blouch 717-991-9621"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry":	{
+				"type": "Point",
+				"coordinates":	[
+					-77.411092,
+					39.413439 
+				]
+			},
+			"properties": {
+				"marker-symbol": "music",
+				"Name": "Open Jam",
+				"Days": "Thursdays",
+				"Time": "7:00PM - 8:30PM (Celtic), 8:30PM (Bluegrass)",
+				"Venue": "Boe's Strings",
+				"Address": "26 South Market Street, Frederick, MD 21701",
+				"Information": "301-662-0750"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry":	{
+				"type": "Point",
+				"coordinates":	[
+					-77.760119,
+					39.540122 
+				]
+			},
+			"properties": {
+				"marker-symbol": "music",
+				"Name": "Open Jam",
+				"Days": "Thursdays",
+				"Time": "6:30-10:30PM",
+				"Venue": "Woodmen of the World Lodge",
+				"Address": "8344 Reichard Road, St. James, Maryland 21733",
+				"Note": "All levels welcome. Several jams at all times, spectators welcome. Snacks provided, acoustic only"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry":	{
+				"type": "Point",
+				"coordinates":	[
+					-77.134053,
+					38.772415 
+				]
+			},
+			"properties": {
+				"marker-symbol": "music",
+				"Name": "Open Jam hosted by Kingstreet Bluegrass",
+				"Days": "Thursdays",
+				"Venue": "Fiona's Irish Pub (formerly King Street Blues)",
+				"Address": "5810 Kingstowne Ctr, Alexandria, VA 22315"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry":	{
+				"type": "Point",
+				"coordinates":	[
+					-77.794646,
+					38.713230 
+				]
+			},
+			"properties": {
+				"marker-symbol": "music",
+				"Name": "Open Jam",
+				"Days": "First Thursday of every month",
+				"Time": "6:00-8:30PM",
+				"Venue": "Black Bear Bistro",
+				"Address": "34 Main Street, Warrenton, VA 20186"
+			}
 		}
 	]
 }
