@@ -353,6 +353,25 @@
 				"Venue": "Black Bear Bistro",
 				"Address": "34 Main Street, Warrenton, VA 20186"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry":	{
+				"type": "Point",
+				"coordinates":	[
+					-77.769603,
+					39.132378 
+				]
+			},
+			"properties": {
+				"marker-symbol": "music",
+				"Name": "Round Hill Monthly Bluegrass & Folk Jam Session",
+				"Days": "Last Friday of every month",
+				"Time": "6:00PM",
+				"Venue": "The Old Furniture Factory Building",
+				"Address": "6 W Loudon Street, Round Hill, VA 20141",
+				"Note": "Free admission. Open to all ages and skill levels. Barbecue dinner and drinks available for purchase."
+			}
 		}
 	]
 }
