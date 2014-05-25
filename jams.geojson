@@ -33,7 +33,7 @@
 			"properties": {
 				"marker-symbol": "music",
 				"Name": "BrownBag Bluegrass Gospel (B3G)",
-				"Days": "Mondays",
+				"Days": "Monday",
 				"Time": "12:00PM",
 				"Venue": "First Presbyterian Church of Winchester (in the Fellowship Hall)",
 				"Address": "116 South Loudoun Street, Winchester, VA",
@@ -54,7 +54,7 @@
 			"properties": {
 				"marker-symbol": "music",
 				"Name": "Loudon Bluegrass Association Jam",
-				"Days": "Tuesdays",
+				"Days": "Tuesday",
 				"Time": "7:00PM",
 				"Venue": "Morningside House",
 				"Address": "316 Harrison Street SE, Leesburg, VA",
@@ -74,7 +74,7 @@
 			"properties": {
 				"marker-symbol": "music",
 				"Name": "Millcreek Bluegrass Band Jam",
-				"Days": "Tuesdays",
+				"Days": "Tuesday",
 				"Time": "8:15-11:00PM",
 				"Venue": "Dugal's Inn",
 				"Address": "2094 Strasburg Road, Coatesville, PA",
@@ -94,7 +94,7 @@
 			"properties": {
 				"marker-symbol": "music",
 				"Name": "BIG Bluegrass Jam",
-				"Days": "3rd Tuesday of every month",
+				"Days": "Third Tuesday of every month",
 				"Time": "8:30PM",
 				"Venue": "The Mermaid Inn",
 				"Address": "7673 Winston Road, PA",
@@ -114,7 +114,7 @@
 			"properties": {
 				"marker-symbol": "music",
 				"Name": "Tuesday Night Bluegrass, Old Time and Gospel Jam",
-				"Days": "Tuesdays",
+				"Days": "Tuesday",
 				"Time": "7:00-10:00PM",
 				"Venue": "Pine Hall Lutheran Church",
 				"Address": "1760 West College Avenue, State College, PA",
@@ -134,7 +134,7 @@
 			"properties": {
 				"marker-symbol": "music",
 				"Name": "Bluegrass Jam",
-				"Days": "Tuesdays",
+				"Days": "Tuesday",
 				"Time": "6:00-9:00PM",
 				"Venue": "James Madison University",
 				"Address": "800 S Main St, Harrisonburg, VA 22801",
@@ -154,7 +154,7 @@
 			"properties": {
 				"marker-symbol": "music",
 				"Name": "Bluegrass Music Alliance Jam",
-				"Days": "Tuesdays",
+				"Days": "Tuesday",
 				"Time": "6:30-9:30PM",
 				"Venue": "Train Station on East Martin Street",
 				"Address": "229 Martin St E, Martinsburg, WV 25401",
@@ -194,7 +194,7 @@
 			"properties": {
 				"marker-symbol": "music",
 				"Name": "Elkton Bluegrass Jam",
-				"Days": "Tuesdays",
+				"Days": "Tuesday",
 				"Time": "6:00-8:00PM",
 				"Venue": "Elkton Community Center",
 				"Address": "20592 Blue and Gold Drive, Elkton, VA",
@@ -213,7 +213,7 @@
 			"properties": {
 				"marker-symbol": "music",
 				"Name": "Arcadia Bluegrass Jam",
-				"Days": "Wednesdays",
+				"Days": "Wednesday",
 				"Time": "7:00-10:00PM",
 				"Venue": "Arcadia Fire Co. Hall",
 				"Address": "5415 Arcadia Ave Upperco, MD 21155",
@@ -273,7 +273,7 @@
 			"properties": {
 				"marker-symbol": "music",
 				"Name": "Bluerass Jam",
-				"Days": "Thursdays",
+				"Days": "Thursday",
 				"Time": "6:00PM",
 				"Venue": "Franklintown Community Fire Company",
 				"Address": "107 Baltimore Road, Dillsburg, PA 17019",
@@ -293,7 +293,7 @@
 			"properties": {
 				"marker-symbol": "music",
 				"Name": "Open Jam",
-				"Days": "Thursdays",
+				"Days": "Thursday",
 				"Time": "7:00PM - 8:30PM (Celtic), 8:30PM (Bluegrass)",
 				"Venue": "Boe's Strings",
 				"Address": "26 South Market Street, Frederick, MD 21701",
@@ -312,7 +312,7 @@
 			"properties": {
 				"marker-symbol": "music",
 				"Name": "Open Jam",
-				"Days": "Thursdays",
+				"Days": "Thursday",
 				"Time": "6:30-10:30PM",
 				"Venue": "Woodmen of the World Lodge",
 				"Address": "8344 Reichard Road, St. James, Maryland 21733",
@@ -372,6 +372,219 @@
 				"Address": "6 W Loudon Street, Round Hill, VA 20141",
 				"Note": "Free admission. Open to all ages and skill levels. Barbecue dinner and drinks available for purchase."
 			}
-		}
+		},
+		{
+			"type": "Feature",
+			"geometry":	{
+				"type": "Point",
+				"coordinates":	[
+					-78.191944,
+					38.925833 
+				]
+			},
+			"properties": {
+				"marker-symbol": "music",
+				"Name": "Monthly Bluegrass Jam Session",
+				"Days": "Last Friday of every month",
+				"Time": "7:00-10:00PM",
+				"Venue": "Senior Citizen Center",
+				"Address": "Front Royal, VA"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry":	{
+				"type": "Point",
+				"coordinates":	[
+					-78.233219,
+					38.812451 
+				]
+			},
+			"properties": {
+				"marker-symbol": "music",
+				"Name": "Browntown Jam",
+				"Days": "Second Friday of every month",
+				"Time": "7:00-10:00PM",
+				"Venue": "Browntown Community Center",
+				"Address": "96 Browntown Road, Browntown, VA 22610",
+				"Note": "Food available"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry":	{
+				"type": "Point",
+				"coordinates":	[
+					-76.961309,
+					38.242779 
+				]
+			},
+			"properties": {
+				"marker-symbol": "music",
+				"Name": "Colonial Beach Lions Club Bluegrass Jam",
+				"Days": "Third Friday of every month",
+				"Time": "7:00PM",
+				"Venue": "Lion Recreation Center",
+				"Address": "717 Marshall Avenue, 717 Marshall Avenue, Colonial Beach, VA 22443",
+				"Note": "Admission - $2.00, Dinner - $5.00 (includes desert and drink), Everyone welcome to listen or jam",
+				"Information": "804-214-9605 or 804-224-8426"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry":	{
+				"type": "Point",
+				"coordinates":	[
+					-76.181172,
+					40.192709 
+				]
+			},
+			"properties": {
+				"marker-symbol": "music",
+				"Name": "Bluegrass, Gospel & Country Jam",
+				"Days": "Second and Fourth Fridays of every month",
+				"Time": "5:00PM, Open Mic Jam at 6:30PM",
+				"Address": "19 Helen Ave, Ephrata, PA 17522",
+				"Note": "Admission - $4.00, All year round except December",
+				"Information": "717-721-7120"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry":	{
+				"type": "Point",
+				"coordinates":	[
+					-76.781718,
+					38.535903 
+				]
+			},
+			"properties": {
+				"marker-symbol": "music",
+				"Name": "Bargain Barn Bluegrass Jam",
+				"Days": "First Friday of every month",
+				"Time": "7:00-10:00PM",
+				"Venue": "The Hughesville Habitat Restore at the Bargain Barn",
+				"Address": "8275 Old Leonardtown Road, Hughesville, MD 20637",
+				"Information": "Bill Adams, 301-848-1864 cell / Email: hpytrls@comcast.net"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry":	{
+				"type": "Point",
+				"coordinates":	[
+					-77.577439,
+					39.752724 
+				]
+			},
+			"properties": {
+				"marker-symbol": "music",
+				"Name": "Bluegrass Jam",
+				"Days": "Friday",
+				"Time": "6:30-10:00PM",
+				"Venue": "Beck and Benedict Hardware Store and Music Shop",
+				"Address": "118 Walnut Street, Waynesboro, PA 17268",
+				"Note": "Donation $3.00, refreshment table provided, door prizes multiple jams throughout, acoustic only, all level musicians welcome, spectators welcome. ok to perform on stage.",
+				"Information": "717-762-4711"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry":	{
+				"type": "Point",
+				"coordinates":	[
+					-77.134407,
+					38.772216 
+				]
+			},
+			"properties": {
+				"marker-symbol": "music",
+				"Name": "Kingstowne Acoustic Music Bluegrass Jam",
+				"Days": "First and Third Friday of every month",
+				"Time": "6:00-9:00PM",
+				"Venue": "Kingstowne Acoustic Music",
+				"Address": "5830 Kingstowne Center #110, Alexandria, VA 22315",
+				"Information": "(703) 822-9090 or daivd_evans@earthlink.net"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry":	{
+				"type": "Point",
+				"coordinates":	[
+					-77.331517,
+					39.456345 
+				]
+			},
+			"properties": {
+				"marker-symbol": "music",
+				"Name": "Friday Night Bluegrass Jam",
+				"Days": "Second Friday of every month",
+				"Time": "7:00-11:00PM",
+				"Venue": "Mout Pleasant Ruritan Club",
+				"Address": "8101 Crum Road, Walkersville, MD 21793",
+				"Note": "The club is actually in Mt Pleasant, about 6 miles east of Frederick, MD on Hwy 26. Open to all levels of musicians and vocalists; acoustic instruments only; everyone gets a chance to play and/or sing. Spectators welcome. Snacks and sodas available through the Ruritan Club; asking a donation at the door to help the club defray expenses",
+				"Information": "Dusty Rhodes at 301-898-9245 or dusty1014@comcast.net"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry":	{
+				"type": "Point",
+				"coordinates":	[
+					-77.249896,
+					39.827800 
+				]
+			},
+			"properties": {
+				"marker-symbol": "music",
+				"Name": "Gettysburg YWCA Jam",
+				"Days": "Friday",
+				"Time": "6:45-9:45PM",
+				"Venue": "Gettysburg YWCA",
+				"Address": "909 Fairfield Road, Gettysburg, PA 17325",
+				"Note": "Open jam, all invited. Donations taken, plenty of well-lit parking. Same area at Gettysburg College; no stage, no mics, no pressure. trending toward traditional bluegrass",
+				"Information": "717-334-9171"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry":	{
+				"type": "Point",
+				"coordinates":	[
+					-78.782271,
+					38.632365 
+				]
+			},
+			"properties": {
+				"marker-symbol": "music",
+				"Name": "The Spike Jam Sessions",
+				"Days": "Friday",
+				"Time": "6:30PM",
+				"Venue": "Plains District Community Center",
+				"Address": "233 Mccauley Avenue, Timberville, VA 22853",
+				"Note": "Just west of the Food Lion Shopping Center",
+				"Information": "Vallie May Stroop at 540-434-5491"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry":	{
+				"type": "Point",
+				"coordinates":	[
+					-77.264402,
+					38.902549 
+				]
+			},
+			"properties": {
+				"marker-symbol": "music",
+				"Name": "Vienna Maple Avenue Market Bluegrass Jam",
+				"Days": "Second and fourth Friday of every month",
+				"Time": "7:00-8:30PM",
+				"Venue": "Maple Avenue Market",
+				"Address": "128 Maple Avenue E, Vienna, VA, 22180",
+				"Information": "MapleAvenueJam@fastmail.fm"
+			}
+		}	
 	]
 }
